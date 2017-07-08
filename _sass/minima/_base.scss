@@ -232,8 +232,8 @@ svg.material-icons.md-36 { height: 36px; }
 svg.material-icons.md-48 { height: 48px; }
 
 /* Rules for using icons as black on a light background. */
-.material-icons.md-dark { color: $grey-color !important;  fill: $grey-color !important; }
-.material-icons.md-dark.md-inactive { color: $grey-color-light !important;  fill: $grey-color-light !important; }
+.material-icons.md-dark { color: $grey-color-dark !important;  fill: $grey-color-dark !important; }
+.material-icons.md-dark.md-inactive { color: $grey-color !important;  fill: $grey-color !important; }
 
 /* Rules for using icons as white on a dark background. */
 .material-icons.md-light { color: $grey-color-light !important; fill: $grey-color-light !important; }

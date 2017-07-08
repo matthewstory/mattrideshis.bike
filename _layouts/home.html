@@ -4,23 +4,23 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+      {% if post.image %}
+         <li class="post-item"><a class="post-link" href="{{ post.url | relative_url }}">
+             <div class="post-title">
+                 <h2>{{ post.title | escape }}</h2>
+                 {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                 <span class="post-meta">{{ post.date | date: date_format }}</span>
+             </div>
+             <figure>
+                 <img class="post-image hero" src="{{ post.image | relative_url }}" />
+                 <img class="post-image narrow hero" src="{% if post.image-narrow %}{{ post.image-narrow | relative_url }}{% else %}{{ post.image | relative_url }}{% endif %}" />
+             </figure>
+         </a></li>
+      {% endif %}
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
 </div>

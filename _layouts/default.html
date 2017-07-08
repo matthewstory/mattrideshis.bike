@@ -7,10 +7,12 @@
 
     {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
+    <main class="page-content {% if page.no-wrapper %}no-wrapper{% endif %}" aria-label="Content">
+      {% if page.no-wrapper %}{{ content }}{% else %}
       <div class="wrapper">
         {{ content }}
       </div>
+      {% endif %}
     </main>
 
     {% include footer.html %}
