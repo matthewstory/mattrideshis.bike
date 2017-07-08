@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-body {
+body, body input {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: $background-color;
@@ -169,6 +169,8 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
+  position: relative;
+
   @extend %clearfix;
 
   @include media-query($on-laptop) {
@@ -213,3 +215,26 @@ pre {
     padding-top: 5px;
   }
 }
+
+/**
+ * icons
+ */
+/* Rules for sizing the icon. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+svg.material-icons { vertical-align: top; }
+svg.material-icons.md-18 { height: 18px; }
+svg.material-icons.md-24 { height: 24px; }
+svg.material-icons.md-36 { height: 36px; }
+svg.material-icons.md-48 { height: 48px; }
+
+/* Rules for using icons as black on a light background. */
+.material-icons.md-dark { color: $grey-color !important;  fill: $grey-color !important; }
+.material-icons.md-dark.md-inactive { color: $grey-color-light !important;  fill: $grey-color-light !important; }
+
+/* Rules for using icons as white on a dark background. */
+.material-icons.md-light { color: $grey-color-light !important; fill: $grey-color-light !important; }
+.material-icons.md-light.md-inactive { color: $grey-color !important; fill: $grey-color !important; }

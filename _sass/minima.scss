@@ -12,14 +12,21 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
+$white-color: #ECEFF3 !default;
+$pink-color: #EE3A84 !default;
+$orange-color: #F27521 !default;
+$blue-color: #00ADAF !default;
+$navy-color: #2A286B !default;
+
+$brand-color:      $blue-color !default;
+
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1600px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
