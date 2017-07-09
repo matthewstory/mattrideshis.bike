@@ -101,6 +101,6 @@ The first thing that makes me happy about this bike is just looking at it. It's 
 
 Then I ride it, and it gets even better. The bike feels race-y but comfortable at the same time. The steel frame eats up the road, but when I put my foot down it doesn't sap my power. For a steel bike, you might expect it to be heavy but the full build clocks in at a very respectable 18lbs, which goes a long way to explaining why the bike still feels nimble and spry.
 
-But ultimately the thing I like the most is that it is 100% my bike, I know it like the back of my hand because I built it with my own two hands. And because of this I can tinker a lot more with it than I hae with other bikes. Want to try new bars? Easy. Change the fit with a longer stem? No problem. Don't like it? Just switch back. My Swiss Cross has gone beyond being static and become a living and evolving bike.
+Ultimately the thing I like the most is that it is 100% my bike, I know it like the back of my hand because I built it with my own two hands. And because of this I can tinker a lot more with it than I hae with other bikes. Want to try new bars? Easy. Change the fit with a longer stem? No problem. Don't like it? Just switch back. My Swiss Cross has gone beyond being static and become a living and evolving bike.
 
 ![Swiss Cross at Sunset]({{ "/assets/posts/gear/reviews/bikes/ritchey-sunset.jpg" | relative_url }})
