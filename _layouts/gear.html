@@ -16,7 +16,7 @@ layout: post
 <dl class="technical_specifications">
     {% for spec in page.specifications %}
         <dt>{{ spec.type }}</dt>
-        <dd>{% if spec.link %}<a href="{{ spec.link }}">{{ spec.part }}</a>{% else %}spec.part{% endif %}</dd>
+        <dd>{% if spec.link %}<a target="_blank" href="{{ spec.link }}">{{ spec.part }}</a>{% else %}spec.part{% endif %}</dd>
     {% endfor %}
 </dl>
 {% endif %}

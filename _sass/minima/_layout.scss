@@ -293,7 +293,7 @@
     background-color: rgba(66, 66, 66, .5);
 
     &.gear {
-        background: rgba(66, 66, 66, .5) url("icons/gear-tag-orange.svg") no-repeat right top;
+        background: rgba(66, 66, 66, .5) url("icons/gear-tag-orange.png") no-repeat right top;
     }
 
     h2, .post-meta {
@@ -353,6 +353,21 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+
+  .images {
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+    padding-right: 15px;
+
+    & > li {
+      width: 275px;
+      display: inline-block;
+      padding-left: $spacing_unit / 2;
+      margin-bottom: $spacing_unit / 2;
+    }
+
   }
 }
 
