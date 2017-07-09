@@ -44,6 +44,9 @@ theme: minima
 gems:
   - jekyll-feed
 
+disqus:
+    shortname: matt-rides-his-bike
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
