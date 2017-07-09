@@ -32,6 +32,7 @@ url: "http://mattrideshis.bike" # the base hostname & protocol for your site, e.
 twitter_username: mscottstory
 instagram_username: mscottstory
 instagram_clientid: ecf20778fde34cfeaa047879ebb581b7
+instagram_accesstoken: 4341673255.1677ed0.1f5add5e0efa45be9e3eb2fd2062e241
 instagram_userid: 4341673255
 strava_username: mattstory
 # github_username:  jekyll

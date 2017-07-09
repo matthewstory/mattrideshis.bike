@@ -1,47 +1,13 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-    {% if site.instagram_clientid %}<div id="instafeed" data-instagram_clientid="{{ site.instagram_clientid }}" data-instagram_userid="{{ site.instagram_userid }}"><!-- --></div>{% endif %}
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
+    {% if site.instagram_clientid %}
+        <p class="instafollow">For more 🚴 🗽 stories, follow <a href="https://instagram.com/{{ site.instagram_username }}">@{{ site.instagram_username }}</a> on Instagram.</p>
+        <ul id="instafeed" data-instagram_clientid="{{ site.instagram_clientid }}"
+                           data-instagram_userid="{{ site.instagram_userid }}"
+                           data-instagram_accesstoken="{{ site.instagram_accesstoken }}"><!-- --></ul>
+   {% endif %}
+   <p class="legal">&copy; 2017 Matt Story Consulting, LLC | <a href="{{ "assets/privacy.txt" | relative_url }}">Privacy</a></p>
   </div>
 
 </footer>
