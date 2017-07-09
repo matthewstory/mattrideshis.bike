@@ -1,3 +1,4 @@
+// Set up the header color switching
 $(function() {
     var colors = [ "pink", "orange", "blue", "navy" ];
     var topClass, bottomClass;
@@ -16,4 +17,19 @@ $(function() {
 
     getRad();
     setInterval(getRad, 10000);
+});
+
+// set up insta feed
+$(function() {
+    var clientId = $("#instafeed").data("instagram_clientid"),
+        userId = $("#instafeed").data("instagram_userid");
+    if (clientId !== undefined && userId !== undefined) {
+        new Instafeed({
+            "get": "user",
+            "userId": userId,
+            "limit": 4,
+            "clientId": clientId,
+            "template": "<li class='ig-item'><a href='{{link}}'><img src='{{image}}' /></a></li>"
+        }).run();
+    }
 });

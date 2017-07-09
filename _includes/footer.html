@@ -1,6 +1,7 @@
 <footer class="site-footer">
 
   <div class="wrapper">
+    {% if site.instagram_clientid %}<div id="instafeed" data-instagram_clientid="{{ site.instagram_clientid }}" data-instagram_userid="{{ site.instagram_userid }}"><!-- --></div>{% endif %}
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 

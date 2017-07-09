@@ -310,14 +310,19 @@
     }
 }
 
-.post-item figure {
+.post-item figure, .post-header figure {
     max-height: 600px;
+    min-height: 100px;
     overflow: hidden;
     margin-bottom: 0px;
 }
 
 
-.post-item .post-title {
+.post-title {
+    @include relative-font-size(2);
+    letter-spacing: -1px;
+    line-height: 1;
+
     position: absolute;
     bottom: $spacing-unit / 2;
     text-align: left;
@@ -353,13 +358,8 @@
  * Posts
  */
 .post-header {
+  position: relative;
   margin-bottom: $spacing-unit;
-}
-
-.post-title {
-  @include relative-font-size(2);
-  letter-spacing: -1px;
-  line-height: 1;
 }
 
 .post-content {

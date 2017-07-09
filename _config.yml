@@ -31,6 +31,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mattrideshis.bike" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mscottstory
 instagram_username: mscottstory
+instagram_clientid: ecf20778fde34cfeaa047879ebb581b7
+instagram_userid: 4341673255
+strava_username: mattstory
 # github_username:  jekyll
 
 # Build settings

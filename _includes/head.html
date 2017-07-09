@@ -11,7 +11,8 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="{{ "/assets/main.js" | relative_url }}"></script>
+  <script type="text/javascript" src="{{ "assets/instafeed.min.js" | relative_url }}"></script>
+  <script type="text/javascript" src="{{ "/assets/main.js" | relative_url }}"></script>
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}

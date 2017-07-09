@@ -10,15 +10,7 @@ layout: default
     {% for post in site.posts %}
       {% if post.image %}
          <li class="post-item"><a class="post-link" href="{{ post.url | relative_url }}">
-             <div class="post-title">
-                 <h2>{{ post.title | escape }}</h2>
-                 {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                 <span class="post-meta">{{ post.date | date: date_format }}</span>
-             </div>
-             <figure>
-                 <img class="post-image hero" src="{{ post.image | relative_url }}" />
-                 <img class="post-image narrow hero" src="{% if post.image-narrow %}{{ post.image-narrow | relative_url }}{% else %}{{ post.image | relative_url }}{% endif %}" />
-             </figure>
+            {% include post-title.html %}
          </a></li>
       {% endif %}
     {% endfor %}
