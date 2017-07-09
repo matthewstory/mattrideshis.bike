@@ -19,9 +19,10 @@ title: Matt Rides His Bike
 title_img: /assets/logo/mattrideshisbike-banner.png
 title_img_narrow: /assets/logo/mattrideshisbike-icon.png
 header_pages:
-    - routes.md
-    - gear.md
-    - vitals.md
+     -
+#    - routes.md
+#    - gear.md
+#    - vitals.md
 
 #email: email@example.com
 description: > # this means to ignore newlines until "baseurl:"
