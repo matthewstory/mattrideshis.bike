@@ -215,6 +215,7 @@
     list-style: none;
     text-align: center;
     margin: 0px;
+    padding-right: 15px;
 
     & > li {
         display: inline-block;
@@ -272,7 +273,7 @@
 }
 
 .post-item figure, .post-header figure {
-    max-height: 600px;
+    max-height: 500px;
     min-height: 100px;
     overflow: hidden;
     margin-bottom: 0px;
@@ -289,7 +290,11 @@
     text-align: left;
     width: 100%;
     padding: $spacing-unit / 2 0px;
-    background-color: rgba(66, 66, 66, .4);
+    background-color: rgba(66, 66, 66, .5);
+
+    &.gear {
+        background: rgba(66, 66, 66, .5) url("icons/gear-tag-orange.svg") no-repeat right top;
+    }
 
     h2, .post-meta {
         padding: 0px $spacing-unit / 2 0px;
@@ -349,4 +354,38 @@
       @include relative-font-size(1.125);
     }
   }
+}
+
+/**
+ * Gear
+ */
+
+.technical_specifications {
+    width: $min-width;
+    float: right;
+    margin: 0 0 $spacing-unit / 2 $spacing-unit / 2;
+
+    @include media-query($on-palm) {
+        float: none;
+        width: auto;
+        margin: 0px;
+    }
+
+    dt {
+      float: left;
+      padding: 0px $spacing-unit / 5;
+      font-weight: bold;
+      font-size: .5em;
+      color: $white-color;
+      text-transform: uppercase;
+      letter-spacing: 0px;
+      background-color: $orange-color;
+      margin-top: 0px;
+    }
+    dd {
+        font-size: .8em;
+        text-align: right;
+        border-top: 2px solid $orange-color;
+        margin-bottom: 0px;
+    }
 }

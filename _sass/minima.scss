@@ -26,7 +26,8 @@ $navy-color: #2A286B !default;
 $brand-color:      $blue-color !default;
 
 // Width of the content area
-$content-width:    1600px !default;
+$content-width:    1000px !default;
+$min-width:        300px  !default;
 
 $on-palm:          750px !default;
 $on-laptop:        800px !default;

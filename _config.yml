@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-search: yes
+# TODO: turn search on
+# search: yes
 title: Matt Rides His Bike
-title_img: /assets/mattrideshisbike-banner.png
-title_img_narrow: /assets/mattrideshisbike-icon.png
+title_img: /assets/logo/mattrideshisbike-banner.png
+title_img_narrow: /assets/logo/mattrideshisbike-icon.png
 header_pages:
     - routes.md
     - gear.md

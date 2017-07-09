@@ -1,4 +1,4 @@
- <div class="post-title">
+ <div class="post-title{% if post.categories contains "gear" %} gear{% endif %}">
      <h2>{{ post.title | escape }}</h2>
      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
      <span class="post-meta">{{ post.date | date: date_format }}</span>

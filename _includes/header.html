@@ -16,18 +16,18 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}
           {% endfor %}
-		  {% if site.search %}
 		  <div class="social">
+              {% if site.search %}
 		      <form class="search">
 			    <input type="search" placeholder="Search" id="nav-search" name="search" class="nav-search" />
                 <label for="nav-search"><i class="material-icons md-18 md-dark">search</i></label>
 		      </form>
+              {% endif %}
 			  <a href="{{ "/feed.xml" | relative_url }}"><i class="material-icons md-18 md-dark">rss_feed</i><label for="rss_feed">Subscribe</label></a>
 			  {% if site.instagram_username %}<a href="https://instagram.com/{{ site.instagram_username | escape }}">{% include instagram-logo.svg %}<label for="instagram">@{{ site.instagram_username | escape }}</label></a>{% endif %}
 			  {% if site.twitter_username %}<a href="https://twitter.com/{{ site.instagram_username | escape }}">{% include twitter-logo.svg %}<label for="twitter">@{{ site.twitter_username | escape }}</label></a>{% endif %}
 			  {% if site.strava_username %}<a href="https://strava.com/athletes/{{ site.strava_username | escape }}">{% include strava-logo.svg %}<label for="twitter">{{ site.strava_username | escape }}</label></a>{% endif %}
 		  </div>
-		  {% endif %}
         </div>
       </nav>
     {% endif %}

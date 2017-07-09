@@ -1,0 +1,24 @@
+---
+layout: post
+# you can generate a tech spec table with an entry like this:
+#
+# specifications:
+# - type: Crankset
+#   part: SRAM Force 1X
+#   link: amazon.com
+#   position:
+#     x: 100
+#     y: 100
+#
+# interactive-image: assets/bike.jpg
+---
+{% if page.specifications %}
+<dl class="technical_specifications">
+    {% for spec in page.specifications %}
+        <dt>{{ spec.type }}</dt>
+        <dd>{% if spec.link %}<a href="{{ spec.link }}">{{ spec.part }}</a>{% else %}spec.part{% endif %}</dd>
+    {% endfor %}
+</dl>
+{% endif %}
+
+{{ content }}

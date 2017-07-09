@@ -1,4 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
-.sw[lmnop]
+.*.sw[lmnop]
+.DS_Store
