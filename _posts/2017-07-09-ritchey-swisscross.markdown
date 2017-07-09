@@ -1,7 +1,7 @@
 ---
 layout: gear
 title:  "My Ritchey Swiss Cross"
-date:   2017-07-08 12:10:22 -0400
+date:   2017-07-09 06:00:00 -0400
 categories: gear reviews bike cx
 image: /assets/posts/gear/reviews/bikes/ritchey-swisscross-snow.jpg
 specifications:
