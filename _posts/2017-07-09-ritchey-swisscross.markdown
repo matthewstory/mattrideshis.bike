@@ -85,7 +85,7 @@ Much like the F4X, my Swiss Cross build has a mixed SRAM drive-train, but unlike
 
 #### Wheels & Tires
 
-The HiFi mixtape alloy rims on this bike are tubeless ready, bombproof and pretty cost-effective ($519 - $829) when you compare them to the fairly similar [Ardennes](https://www.hedcycling.com/ardennes/) builds from Hed ($700 - $1200). The HiFi alloy rims feature an internal rim width of 24mm, which is less than the 25mm sported by their carbon rims and the Belgium rims used on the Ardennes which is one of the very few things I would change about these wheels.
+The HiFi mixtape alloy rims on this bike are tubeless ready, bombproof and pretty cost-effective ($519 - $829) when you compare them to the fairly similar [Ardennes](https://www.hedcycling.com/ardennes/) builds from Hed ($700 - $1200). The HiFi alloy rims feature a rim width of 24mm, which is less than the 25mm sported by their carbon rims and the Belgium rims used on the Ardennes which is one of the very few things I would change about these wheels.
 
 For city and gravel riding I run Compass Bon Jon Pass lightweight tires tubeless with Stan's valves. Though the walls are so thin that you'll need to use more sealant than you think, once you get a good seal it's like riding on two pillows made out of clouds of butter and silk. I can't really say enough good things about these tires.
 
