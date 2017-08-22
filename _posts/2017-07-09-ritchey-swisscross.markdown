@@ -16,49 +16,48 @@ specifications:
   link: "https://www.compasscycle.com/shop/components/tires/700c/compass-700cx35-bon-jon-pass/"
 - type: Crankset
   part: "SRAM Force1 (42t)"
-  link: "https://www.amazon.com/SRAM-Force-Crankset-172-5mm-110BCD/dp/B00JZIRYVG"
+  link: "http://amzn.to/2g0LM3C"
 - type: Bottom Bracket
   part: SRAM GXP (68 English Threaded)
-  link: "https://www.amazon.com/SRAM-English-100mm-Team-Crank/dp/B00GQV9WRE/ref=sr_1_2?ie=UTF8&qid=1499573849&sr=8-2&keywords=sram+gxp+bottom+bracket"
+  link: "http://amzn.to/2vjUCva"
 - type: Chain
   part: SRAM PC-1170 (Force)
-  link: "https://www.amazon.com/SRAM-PC-1170-11-Speed-Chain/dp/B00CS46E7E/ref=sr_1_1?ie=UTF8&qid=1499573915&sr=8-1&keywords=SRAM+PC-1170"
+  link: "http://amzn.to/2ilLyoB"
 - type: Cassette
   part: SRAM PG-1170 (11t - 36t, Force)
-  link: "https://www.amazon.com/SRAM-PG1170-11-Speed-Cassette-11-28T/dp/B00CLCFS3Y/ref=sr_1_1?ie=UTF8&qid=1499573973&sr=8-1&keywords=SRAM+PG-1170"
+  link: "http://amzn.to/2wsgUAd"
 - type: Rear Derailleur
   part: SRAM Rival1 Type 2.1 (Med Cage)
-  link: "https://www.amazon.com/SRAM-Rival1-Mountain-Bicycle-Derailleur/dp/B00V8RZOI2/ref=sr_1_2?ie=UTF8&qid=1499574080&sr=8-2&keywords=sram%2Brival%2Brear%2Bderailleur&th=1&psc=1"
+  link: "http://amzn.to/2wsJRM3"
 - type: L Brake Lever
   part: SRAM Rival Break Lever
-  link: "https://www.amazon.com/SRAM-Rival-Brake-Lever-Single/dp/B00V8SLEIK/ref=sr_1_1?ie=UTF8&qid=1499574230&sr=8-1&keywords=sram+rival+brake+lever"
+  link: "http://amzn.to/2x7Bin7"
 - type: R Brifter
   part: Rival 22 Double-Tap 11 Spd
-  link: "https://www.amazon.com/SRAM-Rival-Shift-Brake-Right/dp/B00L6SBUW2/ref=pd_rhf_se_s_cp_1?_encoding=UTF8&pd_rd_i=B00L6SBUW2&pd_rd_r=JEHKTA0ZBPJDXPTJZ7MP&pd_rd_w=gBdrK&pd_rd_wg=Qy2MB&psc=1&refRID=JEHKTA0ZBPJDXPTJZ7MP"
+  link: "http://amzn.to/2wszGqT"
 - type: Rear Brake
   part: Shorty Ultimate
-  link: "https://www.amazon.com/Avid-Shorty-Ultimate-Cantilever-Brake/dp/B003RLFQJO/ref=sr_1_1?s=sporting-goods&ie=UTF8&qid=1499574289&sr=1-1&keywords=shorty+ultimate"
+  link: "http://amzn.to/2vTTWAu"
 - type: Front Brake
   part: Shorty Ultimate
-  link: "https://www.amazon.com/Avid-Shorty-Ultimate-Cantilever-Brake/dp/B003RLFQJO/ref=sr_1_1?s=sporting-goods&ie=UTF8&qid=1499574289&sr=1-1&keywords=shorty+ultimate://www.amazon.com/Avid-Shorty-Ultimate-Front-Cantilever/dp/B003RLE0OQ/ref=sr_1_2?s=sporting-goods&ie=UTF8&qid=1499574289&sr=1-2&keywords=shorty+ultimate"
-- type: Bars
+  link: "http://amzn.to/2wiQUGP"
   part: "Ritchey WCS Logic II Blatte (42)"
   link: "https://ritcheylogic.com/wcs-logic-2-blatte-road-bar"
 - type: Bar Tape
   part: "Fizik 2mm Superlight"
-  link: "https://www.amazon.com/dp/B005UGADVK/ref=twister_B00HLA1WXG?_encoding=UTF8&psc=1"
+  link: "http://amzn.to/2vTR86c"
 - type: Stem
   part: "Ritchey WCS C-260 (110mm, 84D)"
-  link: "https://www.amazon.com/Ritchey-C-260-Stem-Black-120mm/dp/B005QSX3C8/ref=sr_1_1?ie=UTF8&qid=1499573375&sr=8-1&keywords=wcs%2Bc260&th=1&psc=1"
+  link: "http://amzn.to/2g0HLw5"
 - type: Seatpost
   part: "Ritchey WCS Alloy Link"
-  link: "https://www.amazon.com/Ritchey-Alloy-Link-Bicycle-Seatpost/dp/B00G9K8XAY/ref=sr_1_1?ie=UTF8&qid=1499574433&sr=8-1&keywords=ritchey+wcs+alloy+seatpost"
+  link: "http://amzn.to/2vU4aAy"
 - type: Saddle
   part: "Fizik Antarres R5 (Red/Black)"
-  link: "https://www.amazon.com/Fizik-Antares-Saddle-Black-Asymmetric/dp/B00OZW7UZM/ref=sr_1_1?ie=UTF8&qid=1499574476&sr=8-1&keywords=fizik+antares+r5"
+  link: "http://amzn.to/2vYOaM7"
 - type: Pedals
   part: "Shimano PD-M9000 XTR"
-  link: "https://www.amazon.com/Shimano-PD-M9000-Race-Pedal-Color/dp/B00O66MSKE/ref=sr_1_1?ie=UTF8&qid=1499574534&sr=8-1&keywords=shimano+xtr+pedals"
+  link: "http://amzn.to/2x81E8G"
 ---
 
 I've never built a bike from the ground up before, and to be honest it took some convincing from my friends before I built up this Swiss Cross. At the time I was coming off my first CX race weekend on a borrowed Space Horse and was eager to get my own steed to race for the rest of the year. I was looking at the sort of mid-level (2 - 3K) complete build CX bikes that are popular right now: carbon frames, 1X drive-trains and disc brakes. I had recently test driven a Felt F4X at NYCVelo, and if it hadn't been for the terrible paint job I would probably have bought it and had a perfectly OK bike.
@@ -80,6 +79,9 @@ Before we get into parts selection, I want to call out the table above. This tab
 I built this Swiss Cross up to race CX, which means that I'm going to crash it a lot and then have to fix it in a parking lot far away from my local bike shop. Crashing it a lot means that the parts most likely to break need to be cheap and easy to replace. Fixing it in a parking lot means that I need to be able to service the bike myself, which means no fancy proprietary parts (sorry Hydraulic disc). Eventually racing CX means that the total build cost needs to be cheap enough that I can affort to have a pit bike.
 
 #### Drivetrain
+
+
+
 
 Much like the F4X, my Swiss Cross build has a mixed SRAM drive-train, but unlike the F4X, I chose to use Rival in all the places that are going to break -- the shift/brake levers and rear derailleur -- and Force everywhere else. I chose to go with an 42t cog on the crank with an 11 - 36t cassette, rather than the 40t/11 - 32t you often see in order to give me a bit more speed when using the bike on the road down hills. This extra speed at the top end of the range has allowed me to use this bike on the road during the winter or in a pinch during the season. The downside of the 11 - 36t cassette is that some of the jumps between cogs are pretty severe.
 

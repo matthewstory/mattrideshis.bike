@@ -9,16 +9,19 @@ specifications:
   link: "http://ridehifi.com/shop/the-mix-tape-aluminum-clincher/"
 - type: "Tire Sealant"
   part: "Stan's No Tubes Tire Sealant"
-  link: "https://www.amazon.com/NoTubes-TU80051-Parent-Tire-Sealant/dp/B00GZHZQNS"
+  link: "http://amzn.to/2wsZZ0n"
 - type: Valves
   part: "Stan's No Tubes Valve Stems (44mm)"
-  link: "https://www.amazon.com/Stans-Tubes-Presta-Universal-Carded/dp/B004YIE2FS/"
-- type: Tires
+  link: "http://amzn.to/2x7tgdP"
+- type: Front Tire
   part: "Clement PDX"
-  link: "https://www.amazon.com/Clement-Cycling-Pdx-Tubeless-Tire/dp/B01HFFFOY4/"
+  link: "http://amzn.to/2vU2O9f"
+- type: Rear Tire
+  part: "Clement MXP"
+  link: "http://amzn.to/2wj8pXD"
 - type: "Rim Tape"
   part: "Stan's No Tubes Rim Tape (25mm)"
-  link: "https://www.amazon.com/Stans-Tubes-9-14m-25mm-10yd/dp/B001VIUTKQ/"
+  link: "http://amzn.to/2wj3ea4"
 image: /assets/posts/howto/tubeless/flat.jpg
 ---
 
@@ -61,7 +64,7 @@ Install the tire the same way you would install a regular clincher tire. Bear in
 
 ### Sealant
 
-Start by removing the valve core. There is a special-made tool for [doing this](https://www.amazon.com/NoTubes-AS0015-Core-Remover-Tool/dp/B001S98NLU/), but honestly pliers work just fine.
+Start by removing the valve core. There is a special-made tool for [doing this](http://amzn.to/2wj8tXn), but honestly pliers work just fine.
 
 ![Remove Core with Pliers]({{ "/assets/posts/howto/tubeless/remove-core-1.jpg" | relative_url }})
 
@@ -74,7 +77,7 @@ Now we're going to take our sealant, shake it up and measure out 2 ounces.
 ![Stan's No Tubes Sealant]({{ "/assets/posts/howto/tubeless/sealant.jpg" | relative_url }})
 
 
-I do this by using an old [Stan's 2 oz bottle](https://www.amazon.com/Bottles-Stans-Sealant-Bottle-Tubeless/dp/B01GN5YTIE/), but many people find it useful to use a specially designed [injector](https://www.amazon.com/Stans-Tubes-2-Ounce-Sealant-Injector/dp/B001GSKL4A/).
+I do this by using an old [Stan's 2 oz bottle](http://amzn.to/2vYzxIY), but many people find it useful to use a specially designed [injector](http://amzn.to/2vZ3s3x).
 
 Before we move forward be sure that the beads on each side of the tire are straddling the rubber valve seal. We're about to pour sealant into the tire through the valve ... so if this isn't positioned correctly you're going to make quite the mess. You can check the position by first looking to see if any rubber stopper is visible around the tire, and then by pinching the tire around the valve stopper to ensure it's positioned in the middle.
 
@@ -98,7 +101,7 @@ Along the way you should hear some popping, this is good. That is the tire bead 
 1. If air is escaping from the bead, use a brush and apply soapy water to both sides of the wheel at the spot where the bead meets the tire. This will help to keep the rim sealed initially and also show you where air is escaping. If air continues to escape:
   * inspect your rim to ensure it is not damaged.
   * inspect the tire to ensure it's not damaged
-  * if neither is damaged you may need a more powerful air compressor or a [2-stage pump](https://www.amazon.com/Lezyne-Pressure-Overdrive-Floor-Pump/dp/B06WP6HPRJ) to seat your tire. Best thing to do is to take it to your local bike shop to use their indoor compressor. If that doesn't work, they can help you diagnose what is wrong.
+  * if neither is damaged you may need a more powerful air compressor or a [2-stage pump](http://amzn.to/2vYF6aj) to seat your tire. Best thing to do is to take it to your local bike shop to use their indoor compressor. If that doesn't work, they can help you diagnose what is wrong.
 
 ### Burping and Final Steps
 
@@ -110,4 +113,4 @@ At this point the best thing you can do is to ride your bike around the block a 
 
 It's a good idea the morning after your install to check your tire pressure to see how much you lost over night. You should not have lost much, so if you lost more than 10 - 15 PSI you probably want to add more sealant. You also want to make an effort to add sealant every 4 - 6 weeks as a matter of habit.
 
-On the off-chance that you do catch a flat on the trail there are a couple of options. The standard practice is to carry a few spare tubes and to just put a tube ride with a tube until you get home. In this case repairing a flat is the same as on a normal clincher ... just a touch messier. An alternative approach is to use a special [tubeless puncture repair kit](https://www.amazon.com/Dynaplug-CARBON-ULTRALITE-Bicycle-Puncture/dp/B017BYKGTC/) to repair the hole in the tire itself.
+On the off-chance that you do catch a flat on the trail there are a couple of options. The standard practice is to carry a few spare tubes and to just put a tube ride with a tube until you get home. In this case repairing a flat is the same as on a normal clincher ... just a touch messier. An alternative approach is to use a special [tubeless puncture repair kit](http://amzn.to/2wiQSyT) to repair the hole in the tire itself.
