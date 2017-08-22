@@ -1,6 +1,10 @@
  <div class="post-title{% if post.categories contains "gear" %} gear{% endif %}">
      <h2>{{ post.title | escape }}</h2>
      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+     {% if post.rating %}
+       {% assign rating= post.rating %}
+        <span class="post-meta post-rating">{% include rating.html %}</span>
+     {% endif %}
      <span class="post-meta">{{ post.date | date: date_format }}</span>
  </div>
  <figure>

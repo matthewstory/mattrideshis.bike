@@ -300,6 +300,7 @@
         padding: 0px $spacing-unit / 2 0px;
     }
 
+
     h2 {
         color: $white-color;
         font-size: 1em;
@@ -316,6 +317,10 @@
         padding-top: .2em;
         margin-top: 0px;
         display: block;
+    }
+
+    .post-rating {
+        float: right;
     }
 }
 

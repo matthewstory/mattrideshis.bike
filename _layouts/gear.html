@@ -2,15 +2,16 @@
 layout: post
 # you can generate a tech spec table with an entry like this:
 #
+# rating: 1
 # specifications:
 # - type: Crankset
 #   part: SRAM Force 1X
 #   link: amazon.com
 #   review:
 #   - category: Overall
-#     rating: 👍
+#     rating: 1
 #   - category: Coolness
-#     rating: 👍
+#     rating: 5
 ---
 {% if page.specifications %}
 <dl class="technical_specifications">
@@ -19,13 +20,19 @@ layout: post
         <dd>
             {% if spec.link %}<a target="_blank" href="{{ spec.link }}">{{ spec.part }}</a>{% else %}spec.part{% endif %}
         </dd>
-        {% if spec.review %}
+        {% if spec.review or page.rating %}
             <dt class="review">Review</dt>
             <dd class="review">
                 <dl>
+                  {% if page.rating %}
+                    <dt>Overall</dt>
+                    {% assign rating = page.rating %}
+                    <dd>{% include rating.html %}</dd>
+                  {% endif %}
                   {% for review in spec.review %}
                     <dt>{{ review.category }}</dt>
-                    <dd>{{ review.rating }}</dd>
+                    {% assign rating = review.rating %}
+                    <dd>{% include rating.html %}</dd>
                   {% endfor %}
                 </dl>
             </dd>
