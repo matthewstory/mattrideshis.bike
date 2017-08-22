@@ -6,17 +6,30 @@ layout: post
 # - type: Crankset
 #   part: SRAM Force 1X
 #   link: amazon.com
-#   position:
-#     x: 100
-#     y: 100
-#
-# interactive-image: assets/bike.jpg
+#   review:
+#   - category: Overall
+#     rating: 👍
+#   - category: Coolness
+#     rating: 👍
 ---
 {% if page.specifications %}
 <dl class="technical_specifications">
     {% for spec in page.specifications %}
         <dt>{{ spec.type }}</dt>
-        <dd>{% if spec.link %}<a target="_blank" href="{{ spec.link }}">{{ spec.part }}</a>{% else %}spec.part{% endif %}</dd>
+        <dd>
+            {% if spec.link %}<a target="_blank" href="{{ spec.link }}">{{ spec.part }}</a>{% else %}spec.part{% endif %}
+        </dd>
+        {% if spec.review %}
+            <dt class="review">Review</dt>
+            <dd class="review">
+                <dl>
+                  {% for review in spec.review %}
+                    <dt>{{ review.category }}</dt>
+                    <dd>{{ review.rating }}</dd>
+                  {% endfor %}
+                </dl>
+            </dd>
+        {% endif %}
     {% endfor %}
 </dl>
 {% endif %}

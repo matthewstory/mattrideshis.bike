@@ -25,6 +25,8 @@ $navy-color: #2A286B !default;
 
 $brand-color:      $blue-color !default;
 
+$orange-color-light: lighten($orange-color, 30%) !default;
+
 // Width of the content area
 $content-width:    1000px !default;
 $min-width:        300px  !default;

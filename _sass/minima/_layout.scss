@@ -386,21 +386,47 @@
         margin: 0px;
     }
 
+    > dt {
+      font-size: .5em;
+    }
+
+    > dd {
+        font-size: .8em;
+    }
+
+    dt.review, .review dt {
+      background-color: $orange-color-light;
+      color: $grey-color;
+      clear: both;
+    }
+
     dt {
       float: left;
       padding: 0px $spacing-unit / 5;
       font-weight: bold;
-      font-size: .5em;
       color: $white-color;
       text-transform: uppercase;
       letter-spacing: 0px;
       background-color: $orange-color;
       margin-top: 0px;
+
     }
+
     dd {
-        font-size: .8em;
         text-align: right;
         border-top: 2px solid $orange-color;
         margin-bottom: 0px;
+
+        &.review {
+            clear: both;
+            border-top: none;
+        }
+
+        &.review dd {
+            border-top-color: $orange-color-light;
+            font-size: 1.4em;
+            line-height: 1.1em;
+        }
     }
+
 }
