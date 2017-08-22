@@ -40,9 +40,10 @@ strava_username: mattstory
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 disqus:
     shortname: matt-rides-his-bike
