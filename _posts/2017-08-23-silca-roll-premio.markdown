@@ -1,7 +1,7 @@
 ---
 layout: gear
 title:  "I Want The Silca Seat Roll Premio To Be Good So Badly"
-date:   2017-08-23 10:00:00 -0400
+date:   2017-08-23 09:50:00 -0400
 categories: gear reviews bag
 rating: 1
 specifications:
