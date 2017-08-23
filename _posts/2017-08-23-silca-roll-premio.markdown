@@ -42,7 +42,7 @@ Worse-yet, the thin elastic strap is not strong enough to keep the seat roll sea
 
 ![Like Your Bike Has a Mullet]({{ "/assets/posts/gear/reviews/silca/dangle-open.jpg" | relative_url }})
 
-I have personally had to replace a set of tire levers and a multi-tool because of this, and if you think I'm the only one that's lost gear becasue of this, think again. Here's another Seat Roll Premio user recounting the first time he used the product:
+I have personally had to replace a set of tire levers and a multi-tool because of this, and if you think I'm the only one that's lost gear because of this, think again. Here's another Seat Roll Premio user recounting the first time he used the product:
 
 > The first time I used it it flew open and sent my stuff flying across Main Street.
 
@@ -79,7 +79,7 @@ My bag holds:
 
 * A high-volume [20g CO<sup>2</sup> cartridge](http://amzn.to/2g2TH0t)
 * Planet-Bike CO<sup>2</sup> [inflator head](http://amzn.to/2g3GCDT) (ever since my [Lezyne](http://amzn.to/2xrjClV) fell out!)
-* Park Tool [Tire Levers](http://amzn.to/2g3Tkmd) (ever since my [Pedros levers](http://amzn.to/2ipb6Rv) fell out!)
+* Park Tool [Tire Levers](http://amzn.to/2g3Tkmd) (ever since my [Pedro's levers](http://amzn.to/2ipb6Rv) fell out!)
 * Crank Brothers [Multi-Tool](http://amzn.to/2xrd1HW)
 * Park Tool [Patch Kit](http://amzn.to/2xb8fiJ)
 * A Tube (depends on which bike)
