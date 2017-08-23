@@ -3,7 +3,7 @@ layout: gear
 title:  "I Want The Silca Seat Roll Premio To Be Good So Badly"
 date:   2017-08-23 10:00:00 -0400
 categories: gear reviews bag
-rating: 2
+rating: 1
 specifications:
 - type: Seat Roll-Bag
   part: "Silca Seat Roll Premio"
@@ -22,13 +22,19 @@ specifications:
 image: assets/posts/gear/reviews/silca/hero.jpg
 ---
 
-Let me start by saying that I love Silca. I love Silca because their products are always stunning, built to last a lifetime and consistently better than their competition. I love Silca so much that the first, second and third time I had problems with this bag I assumed that it was me. I must have attached it improperly. This can't be the bag, it's too awesome. I believe in Silca; their magic is real; it has to be me.
+Before we descend into my own cognative dissonence surrounding this product I want to start by stating two things very clearly.
+
+1. I love Silca.
+2. Do not buy the Seat Roll Premio.
+
 
 ### Stability (1/5)
 
-But it's now nearly a year later and I've logged more than 8,000 miles with this sleek, low-profile bag nestled under my saddle and I've had more than a few group-rides interrupted because the Seat Roll Premio is as temperamental as it is stunning. It has a tendency to ... "flip-out":
+I love Silca because their products are always stunning, built to last a lifetime and consistently better than their competition. I love Silca so much that the first, second and third time I had problems with this bag I assumed that it was me. I must have attached it improperly. This can't be the bag, it's too awesome. I believe in Silca; their magic is real; it has to be me.
 
 ![This Does Not Look Cool]({{ "/assets/posts/gear/reviews/silca/dangle.jpg" | relative_url }})
+
+But it's now nearly a year later and I've logged more than 8,000 miles with this sleek, low-profile bag nestled under my saddle and I've had more than a few group-rides interrupted because the Seat Roll Premio is as temperamental as it is stunning. It has a tendency to ... "flip-out".
 
 And it's not just my bag, every rider I have met on the road with this bag over the past year has experienced this same failure, and more than once I've seen a rider out on 9W dragging their Premio roll behind them by the Premio boa.
 
