@@ -36,7 +36,7 @@ Worse-yet, the thin elastic strap is not strong enough to keep the seat roll sea
 
 ![Like Your Bike Has a Mullet]({{ "/assets/posts/gear/reviews/silca/dangle-open.jpg" | relative_url }})
 
-I personally have had to replace a set of tire levers and a multi-tool because of this, and if you think I'm alone here's another Seat Roll Premio user recounting the first time they used the product:
+I have personally had to replace a set of tire levers and a multi-tool because of this, and if you think I'm the only one that's lost gear becasue of this, think again. Here's another Seat Roll Premio user recounting the first time he used the product:
 
 > The first time I used it it flew open and sent my stuff flying across Main Street.
 
@@ -44,17 +44,17 @@ But perhaps more surprising than how common this complete failure of design seem
 
 > Good to see another Silca roll user. Literally the most beautiful accessory I own! ... The first time I used it it flew open and sent my stuff flying across ... Main Street.
 
-And I completely understand this. I have found myself defending our stops to fix or check my bag to my friends repeatedly by saying similar things, because it is so damn cool.
+And I completely understand this. I have found myself defending my stops to fix or check my bag to my friends repeatedly by saying similar things, because it is so damn cool.
 
 ### Cool (5/5)
 
 Silca is probably the closest thing we have in the cycling world to Supreme. They have a lot of limited releases at staggeringly high prices which sell out nearly instantaneously. Everything they make seems to have next-level HypeBeast status. And personally, I believe that's rightfully so. Everything they make is stunning, period. Every limited edition ultra-premium pump they put out teams up with a Pegorretti or a Sachs, and it's probably the closest most of us will ever get to owning something by one of these artists.
 
-Silca is a lifestyle brand that also happens to make some of the best-quality pumps and tools in the world. And so at $50, why not buy one of the few attainably-priced pieces they offer? Tack on another $50 and they'll throw in a pretty amazing CO<sup>2</sup> regulator and multi-tool for you as well. And at first glance, the Seat Roll Premio lives up to the Silca standards, because it is stunning.
+Silca is a lifestyle brand that also happens to make some of the best quality pumps and tools in the world. And so at $50, why not buy one of the few attainably-priced pieces they offer? Tack on another $50 and they'll throw in a pretty amazing CO<sup>2</sup> regulator and multi-tool for you as well. And at first glance, the Seat Roll Premio lives up to the Silca standards, because it is stunning.
 
 ### Looks (4/5)
 
-When you look closely at the seat roll you notice the white cross stitching over the waxed black canvas and the hints of red in the boa and strap. But far more important than the details are how closely your friends will have to look to observe them.
+When you look closely at the seat roll you notice the white cross-stitching over the waxed black canvas and the hints of red in the boa and strap. It is minimal and perfect. Far more important than the detail work are how closely your friends will have to look to observe them.
 
 ![Invisible]({{ "/assets/posts/gear/reviews/silca/view-from-the-back.jpg" | relative_url }})
 
