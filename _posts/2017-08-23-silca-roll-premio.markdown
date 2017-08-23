@@ -38,11 +38,11 @@ But it's now nearly a year later and I've logged more than 8,000 miles with this
 
 And it's not just my bag, every rider I have met on the road with this bag over the past year has experienced this same failure, and more than once I've seen a rider out on 9W dragging their Premio roll behind them by the Premio boa.
 
-Worse-yet, the thin elastic strap is not strong enough to keep the seat roll seat-rolled when dangling precariously from the rails of your saddle and so once it's upside-down the seat roll quickly becomes a seat flap:
+Worse-yet, the roll can easily come un-rolled once your bag is dangling.
 
 ![Like Your Bike Has a Mullet]({{ "/assets/posts/gear/reviews/silca/dangle-open.jpg" | relative_url }})
 
-I have personally had to replace a set of tire levers and a multi-tool because of this, and if you think I'm the only one that's lost gear because of this, think again. Here's another Seat Roll Premio user recounting the first time he used the product:
+Meaning that you can pretty easily lose the contents of your roll-bag if you don't quickly notice that the bag is dangling. I have personally had to replace a set of tire levers and a multi-tool because of this, and if you think I'm the only one that's lost gear because of this, think again. Here's another Seat Roll Premio user recounting the first time he used the product:
 
 > The first time I used it it flew open and sent my stuff flying across Main Street.
 
@@ -64,7 +64,7 @@ When you look closely at the seat roll you notice the white cross-stitching over
 
 ![Invisible]({{ "/assets/posts/gear/reviews/silca/view-from-the-back.jpg" | relative_url }})
 
-The low profile of the Seat Roll Premio makes it nearly invisible unless you're looking for it, and invisible should be the goal of a well-designed saddle bags. The lining is also pretty sweet:
+The low profile of the Seat Roll Premio makes it nearly invisible unless you're looking for it, and invisible should be the goal of a well-designed saddle bag. The lining is also pretty sweet:
 
 
 ![Classy]({{ "/assets/posts/gear/reviews/silca/open.jpg" | relative_url }})
@@ -86,7 +86,7 @@ My bag holds:
 
 ### Durability (5/5)
 
-I've ridden for more than 8,000 miles with this bag both on and off road, in good and bad weather through all seasons, and while the cover gets muddy and wet, once you open the roll it still looks as good as new.
+I've ridden for more than 8,000 miles with this bag both on and off road, in good and bad weather through all seasons. While the cover gets muddy and wet, once you open the roll it still looks as good as new.
 
 ![Inside the fold is brand-new]({{ "/assets/posts/gear/reviews/silca/closed.jpg" | relative_url }})
 
