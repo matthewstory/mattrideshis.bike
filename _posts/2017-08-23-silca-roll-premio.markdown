@@ -22,7 +22,7 @@ specifications:
 image: assets/posts/gear/reviews/silca/hero.jpg
 ---
 
-Before we descend into my own cognative dissonence surrounding this product I want to start by stating two things very clearly.
+Before we descend into my own cognitive dissonance surrounding this product I want to start by stating two things very clearly.
 
 1. I love Silca.
 2. Do not buy the Seat Roll Premio.
