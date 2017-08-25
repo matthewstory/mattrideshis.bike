@@ -1,6 +1,6 @@
 ---
 layout: gear
-title:  "HOW TO: Replace your PowerLink Chain"
+title:  "HOWTO: Replace your PowerLink Chain"
 date:   2017-08-25 14:45:00 -0400
 categories: howto
 specifications:
