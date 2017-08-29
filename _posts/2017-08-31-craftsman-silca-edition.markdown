@@ -25,13 +25,13 @@ specifications:
   link: "http://amzn.to/2xvnl2s"
 ---
 
-Out of all the bike stuff I've accumulated, none generates more interest than this DIY cordless air compressor. Wether it's helping my friend [Roman](https://instagram.com/romanshotthis) convert to tubeless, or bringing it to cross practice, this little tool generates a lot of interest wherever it goes. And I can understand why: It's cool AF, super precisee, and finally eliminates the last need for arm muscles among cyclists.
+Out of all the bike stuff I've accumulated, none generates more interest than this DIY cordless air compressor. Wether it's helping my friend [Roman](https://instagram.com/romanshotthis) convert to tubeless, or bringing it to cross practice, this little tool generates a lot of interest wherever it goes. And I can understand why: It's cool AF, super precise, and finally eliminates the last need for arm muscles among cyclists.
 
 If you don't have a battery and charger already, this project might be a bit on the pricey side, but the conversion is easy to do and the results are rad and in my opinion worth the spend.
 
 ### Goals & Credit Where Credit is Due
 
-When I built this compressor I had one goal: Have an air compressor that I could use both at home and at Cross Races that would work to both set tubeless tires and help [Coalition CC](https://instagram.com/coalitioncyclingclub) riders dial-in their pressure on tubless and tubular setups alike.
+When I built this compressor I had one goal: Have an air compressor that I could use both at home and at Cross Races that would work to both set tubeless tires and help [Coalition CC](https://instagram.com/coalitioncyclingclub) riders dial-in their pressure on tubeless and tubular setups alike.
 
 Initially I was going to buy a proper air compressor, [with a tank](http://amzn.to/2wGI1XD) like you would see on a construction site. This is actually a pretty cost-effective option, though it's super heavy and not very precise. Luckily my friend [Clay](https://instagram.com/clayparkerjones) pointed me in the direction of a great article from CX magazine on doing a similar [conversion](https://www.cxmagazine.com/craftsman-cordless-inflator-dials-psi-presta-tires-minimal-conversion) on an older model.
 
