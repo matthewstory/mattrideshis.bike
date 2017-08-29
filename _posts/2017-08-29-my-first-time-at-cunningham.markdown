@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Time at Cunningham"
-date:   2017-08-28 09:00:00 -0400
+date:   2017-08-29 09:00:00 -0400
 categories: rides cx
 image: assets/posts/rides/cx/riley-dust.jpg
 ---
