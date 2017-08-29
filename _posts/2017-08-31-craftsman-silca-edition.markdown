@@ -25,7 +25,7 @@ specifications:
   link: "http://amzn.to/2xvnl2s"
 ---
 
-Out of all the bike stuff I've accumulated, none generates more interest than this DIY cordless air compressor. Wether it's helping my friend [Roman](https://instagram.com/romanshotthis) convert to tubeless, or bringing it to cross practice, this little tool generates a lot of interest wherever it goes. And I can understand why: It's cool AF, super precise, and finally eliminates the last need for arm muscles among cyclists.
+Out of all the bike stuff I've accumulated, none generates more interest than this DIY cordless air compressor. Whether it's helping my friend [Roman](https://instagram.com/romanshotthis) convert to tubeless, or bringing it to cross practice, this little tool generates a lot of interest wherever it goes. And I can understand why: It's cool AF, super precise, and finally eliminates the last need for arm muscles among cyclists.
 
 If you don't have a battery and charger already, this project might be a bit on the pricey side, but the conversion is easy to do and the results are rad and in my opinion worth the spend.
 
