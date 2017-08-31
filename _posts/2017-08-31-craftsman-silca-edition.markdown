@@ -1,7 +1,7 @@
 ---
 layout: gear
 title:  "Craftsman Cordless Air Compressor -- Silca Edition"
-date:   2017-08-31 09:50:00 -0400
+date:   2017-08-31 06:45:00 -0400
 categories: gear diy
 image: /assets/posts/gear/diy/air-compressor/hero.jpg
 specifications:
