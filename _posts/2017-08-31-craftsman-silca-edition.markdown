@@ -52,11 +52,11 @@ Once you've removed the barb discard the factory hose, push the barb into the si
 
 On the other end of the hose, insert the [Schrader](http://amzn.to/2gnLGmX) chuck barb into the hose and use pliers to tighten the clamp around the outside of the new silca hose to secure the chuck barb in place:
 
-![Chuck]({{ "/assets/posts/gear/diy/air-compressor/chuck.jpg" | relative_url }}))
+![Chuck]({{ "/assets/posts/gear/diy/air-compressor/chuck.jpg" | relative_url }})
 
 Then thread the [Presta Head](http://amzn.to/2xvnl2) onto the Schrader chuck:
 
-![Head]({{ "/assets/posts/gear/diy/air-compressor/head.jpg" | relative_url }}))
+![Head]({{ "/assets/posts/gear/diy/air-compressor/head.jpg" | relative_url }})
 
 And you're good to go.
 
@@ -64,14 +64,14 @@ And you're good to go.
 
 The Silca head slips on and off easily, there are no levers to depress and no threads to screw on just push it on and then put some pressure on the side of the head and pull to remove:
 
-![Attached]({{ "/assets/posts/gear/diy/air-compressor/attached.jpg" | relative_url }}))
+![Attached]({{ "/assets/posts/gear/diy/air-compressor/attached.jpg" | relative_url }})
 
 The digital pressure display is really the killer feature of this unit:
 
-![Digital Display]({{ "/assets/posts/gear/diy/air-compressor/digital.jpg" | relative_url }}))
+![Digital Display]({{ "/assets/posts/gear/diy/air-compressor/digital.jpg" | relative_url }})
 
 With precision to a tenth of a PSI and an easy to read display, you'll get exactly the pressure you're looking for every time, there's no guess work involved.
 
 And that's it. I hope you build one for yourself, and if you do please send me pictures!
 
-![Complete]({{ "/assets/posts/gear/diy/air-compressor/hero.jpg" | relative_url }}))
+![Complete]({{ "/assets/posts/gear/diy/air-compressor/hero.jpg" | relative_url }})
